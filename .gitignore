@@ -1,3 +1,8 @@
 target/*
 META-INF/*
 .springBeans
+.settings
+.classpath
+.project
+
+
