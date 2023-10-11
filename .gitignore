@@ -1,5 +1,7 @@
-target/*
-META-INF/*
+#folder#
+target
+META-INF
+#.file#
 .springBeans
 .settings
 .classpath
